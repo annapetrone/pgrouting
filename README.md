@@ -25,7 +25,7 @@ How to get started with pgRouting extension for PostgreSQL using Open Street Map
 
 `psql -U postgres`
 
-+ Reset password `ALTER USER my_user_name with password 'my_secure_password';`
++ Reset password `ALTER USER postgres with password 'my_secure_password';`
 
 + use \q (no semi colon) to exit 
 
