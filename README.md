@@ -1,2 +1,2 @@
 # pgrouting
-How to get started with pgrouting extension using Open Street Map data
+How to get started with pgRouting extension for PostgreSQL using Open Street Map data
